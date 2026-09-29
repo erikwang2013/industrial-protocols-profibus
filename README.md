@@ -33,7 +33,7 @@ Siemens CP 5611/CP 5613/CP 5614 接口卡、Anybus Communicator、Hilscher cifX�
 
 ## 兼容框架
 
-Laravel / Webman / Hyperf / ThinkPHP / Yii2 / Plain PHP
+Laravel / Webman / Hyperf / ThinkPHP / Yii2 / Yii3 / Plain PHP
 
 ## 系统要求
 
